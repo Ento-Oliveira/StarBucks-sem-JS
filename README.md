@@ -1,1 +1,1 @@
-# StarBucks-sem-JS
+# StarBucks sem JS
